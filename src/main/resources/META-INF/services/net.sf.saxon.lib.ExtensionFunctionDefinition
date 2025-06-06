@@ -1,0 +1,8 @@
+de.staatsbibliothek.berlin.saxon.extension.CsvToExcelDefinition
+de.staatsbibliothek.berlin.saxon.extension.ExcelToXMLDefinition
+de.staatsbibliothek.berlin.saxon.extension.LangDetectorDefinition
+de.staatsbibliothek.berlin.saxon.extension.Rtf2MimeDefinition
+de.staatsbibliothek.berlin.saxon.extension.Rtf2HtmlDefinition
+de.staatsbibliothek.berlin.saxon.extension.Rtf2TxtDefinition
+de.staatsbibliothek.berlin.saxon.extension.Rtf2NodeDefinition
+de.staatsbibliothek.berlin.saxon.extension.NERServiceClientDefinition

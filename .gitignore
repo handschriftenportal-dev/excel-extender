@@ -1,0 +1,25 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/.idea
+*.iml
+*.log
+/dependency-reduced-pom.xml
+
+### Jenkins ###
+target/
+.classpath
+.project
+.settings
+.idea
+*.iml
+audit.log
+.scannerwork
+.git
+dependency-check*
+sonar-report
+mvnw*
+*.versionsBackup
+mvnsettings.xml
+.bash_history
